@@ -346,12 +346,12 @@
     //   /**
     //    * The NPM package name of the project (must match package.json)
     //    */
-    //   "packageName": "my-app",
+    //   "packageName": "@monorepo/react-app",
     // 
     //   /**
     //    * The path to the project folder, relative to the rush.json config file.
     //    */
-    //   "projectFolder": "apps/my-app",
+    //   "projectFolder": "apps/react-app",
     // 
     //   /**
     //    * An optional category for usage in the "browser-approved-packages.json"
